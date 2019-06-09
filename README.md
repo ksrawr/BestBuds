@@ -3,6 +3,9 @@
 BestBuds is an iOS application written in Swift to help people learn and review different marijuana strains. BestBuds is a CSC690 school project.
 
 ## Table Of Contents
+- [Built With](#built-with)
+- [Compile And Run](#compile-and-run)
+- [Learn More](#learn-more)
 
 ## Built With
 * [Swift](https://developer.apple.com/swift/)
